@@ -11,7 +11,11 @@ Use 'sqrt for square root, 'power' for power, and 'prime' for prime numbers, and
 Author information
 -----------------------------------------------
 Name: Khalid Mohamed Abdi
+
 Nationality: Somali
+
 Residence: Bangladesh
+
 Email: Khalidhajilacag@gmail.com
+
 Facebook: Khalid Mohamed Abdi Hajilacag
